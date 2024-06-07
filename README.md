@@ -25,6 +25,7 @@ License:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
 <h3 align="center">main page</h3>
+
 ![main_page](screens/main_paige.png)
 
 
