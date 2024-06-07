@@ -32,7 +32,7 @@ We welcome any contributions or suggestions to improve the Hospital Management S
 ![type of users](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/user%20type.png)
 
 
-<h3 align="center">user_register</h3>
+<h3 align="center">user registeration</h3>
 
 ![user registeration ](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/user_registration.png)
 
