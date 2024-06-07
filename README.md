@@ -28,4 +28,30 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ![main_page](screens/main_paige.png)
 
+<h3 align="center">type of users</h3>
+
+![type of users](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/user%20type.png)
+
+
+<h3 align="center">user_register</h3>
+
+![user_register ](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/user_registration.png)
+
+
+<h3 align="center">dr_registeration</h3>
+
+![dr_registeration](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/dr_registeration.png)
+
+
+<h3 align="center">type of login</h3>
+
+![type of login](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/login%20type.png)
+
+<h3 align="center">dr_login</h3>
+
+![dr_login](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/doctor_login.png)
+
+<h3 align="center">dr_panel</h3>
+
+![dr_panel](https://github.com/Babak-Chalacki/miniProject_hospital/blob/3cc82017284dfdedfd950a728459382c94c0945d/screens/dr_panel.png)
 
