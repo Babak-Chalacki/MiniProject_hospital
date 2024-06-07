@@ -25,4 +25,6 @@ License:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
 
+<centeer><h3>Main page</h3></center>
 
+![main page](https://github.com/Babak-Chalacki/miniProject_hospital/blob/213bd62b7995355aa6a4a0e8b7457d8b69f08614/screens/mainPage.png)
