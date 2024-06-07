@@ -24,7 +24,7 @@ We welcome any contributions or suggestions to improve the Hospital Management S
 License:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
-<center><h3>main page</h3></center>
+<h3 align="center">main page</h3>
 
 <a href="https://github.com/Babak-Chalacki/miniProject_hospital/blob/326c0748fd61757d8c3a09987d66f9e51985d69c/screens/main_paige.png"></a>
 
