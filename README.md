@@ -25,6 +25,6 @@ License:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
 <h3 align="center">main page</h3>
-![main page](https://github.com/Babak-Chalacki/miniProject_hospital/blob/326c0748fd61757d8c3a09987d66f9e51985d69c/screens/main_paige.png)
+![main page]([https://github.com/Babak-Chalacki/miniProject_hospital/blob/326c0748fd61757d8c3a09987d66f9e51985d69c/screens/main_paige.png](https://github.com/Babak-Chalacki/miniProject_hospital/blob/37484b5651306c85b0f0bb16cab89f8c63be2faa/screens/main_paige.png))
 
 
