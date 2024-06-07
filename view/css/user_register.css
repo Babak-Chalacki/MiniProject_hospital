@@ -1,0 +1,91 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    /* background-image: url("https://images.unsplash.com/photo-1682862516196-0ed3cb7d8f42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1106&q=80"); */
+    background-image: url("../img/hospital.jpg");
+    background-size: cover;
+    font-family: 'arial', sans-serif;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+  }
+  
+  .container {
+    display: flex;
+    padding: 5vh;
+    justify-content: center;
+    margin: 10vh;
+    align-items: center;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.3);
+    background-size: cover;
+    transition: all 0.2s ease;
+    font-family: 'arial', sans-serif;
+    }
+  
+    .container:hover {
+      padding: 7vh;
+      background-color: rgba(255, 255, 255, 0.4);
+      box-shadow: 50px 50px 10px rgba(0, 0, 0, 0.9);
+    }
+  
+  input {
+      width: 310px;
+      padding: 15px;
+      background-color: transparent;
+      text-align: left;
+      align-items: center;
+      box-sizing: border-box;
+      border: 3px solid #000000;
+      border-radius: 10px;
+      }
+    
+      input:focus {
+        border-color: rgb(0, 0, 0);
+     
+      }
+  
+   fieldset {
+      width: 310px;
+      padding: 10px;
+      text-align: left;
+      align-items: center;
+      border: 2px solid #000000;
+      border-radius: 10px;
+    }
+    
+      ::placeholder {
+        color: black;
+        text-align: left;
+      }
+  
+      button {
+        width: 30%;
+        height: 40px;
+        background-color: black;
+        color: rgb(255, 255, 255);
+        border-radius: 10px;
+        border-style: double;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        margin-top: 2px;
+        background: cover;
+      }
+      
+      button:hover {
+        width: 32%;
+        background-color: transparent;
+        color: black;
+        
+      }
+  
+  a {
+    color: rgb(0, 0, 0);
+  }
+  
