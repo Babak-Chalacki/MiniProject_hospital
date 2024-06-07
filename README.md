@@ -26,7 +26,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 
 <center><h3>Main page</h3></center>
-  ![mainPage](https://github.com/Babak-Chalacki/miniProject_hospital/blob/4bb1b547a9f955224028386306038d12915219dd/screens/mainPage.png)  
+  ![mainPage]([https://github.com/Babak-Chalacki/miniProject_hospital/blob/4bb1b547a9f955224028386306038d12915219dd/screens/mainPage.png](https://github.com/Babak-Chalacki/miniProject_hospital/blob/8e76e3d136a0de8013862969b84f4f1f451fc260/screens/mainPage.png))  
 
   
 <center><h3>registeration</h3></center>
