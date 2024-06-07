@@ -21,8 +21,7 @@ How to Use:
 Contributing:
 We welcome any contributions or suggestions to improve the Hospital Management System project. Feel free to submit pull requests or raise issues on the repository.
 
-License:
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
+
 
 <h3 align="center">main page</h3>
 
